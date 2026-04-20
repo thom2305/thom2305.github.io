@@ -1,2 +1,3 @@
-# This is ummm wbsite forr.... ME! 
-^w^
+# This is my website
+
+Enjoy while its still here!
